@@ -1,0 +1,28 @@
+{
+  "name": "next-deep-eq-array",
+  "version": "0.0.1",
+  "description": "Equal array for next",
+  "main": "dist/next-deep-eq-array.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-deep-eq-array",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build",
+    "src",
+    "gulp",
+    "gulpfile.js"
+  ]
+}
